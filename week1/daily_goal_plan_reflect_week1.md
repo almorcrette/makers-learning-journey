@@ -25,14 +25,15 @@ By the end of the week all developers can:
 #### Daily goals
 
 <dl>
-  <dt>Establishing a daily learning  cycle routine</dt>
-  <dt>Finish setting up my Mac and getting used to </dt>
-  <dt>OOD:</dt>
-    <dd>Describe some basic OO principles like encapsulation and SRP,</dd>
-    <dd>learning how to setup and structure a new Ruby project, and turn user requirements into working code.</dd>
-    <dd>Remind myself `initialize` method, and `attr_reader` and `attr_writer`</dd>
-  <dt>Get practice working through error messages, particularly digging into the stack trace</dt>
-  <dt>Practice markdown formatting</dt>
+<dt>Establishing a daily learning  cycle routine</dt>
+<dt>Finish setting up my Mac and getting used to </dt>
+<dt>OOD:</dt>
+  <dd>Describe some basic OO principles like encapsulation and SRP,</dd>
+  <dd>learning how to setup and structure a new Ruby project, and turn user requirements into working code.</dd>
+  <dd>Remind myself `initialize` method, and `attr_reader` and `attr_writer`</dd>
+<dt>Get practice working through error messages, particularly digging into the stack trace</dt>
+<dt>Practice markdown formatting</dt>
+</dl>
 
 #### Day plan
 
