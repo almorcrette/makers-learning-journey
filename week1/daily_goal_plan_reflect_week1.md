@@ -46,6 +46,35 @@ By the end of the week all developers can:
 
 #### Reflection at the end of the day
 
+*Achieved*
+* Successfully established a first iteration to the learning cycle. Evidence by this makers-learning-journey repo and the weekly and daily routines and documentation
+* Finished setting up my Mac and getting used to it. Evidenced by completing a pairing session (4 hours) with the new IDE and receiving 5*s on productivity from my pairing partner
+* Practiced markdown formatting. Evidenced by the markdown files in makers-learning-journey
+* OOD: progress pairing challenge including completing single responsibility principle, private methods, and magic numbers section. Read encapsulation wikipedia entry. Reminded myself about initalize and attr_reader, writer, accessor. Did not have time for the skill workshop and practical though
+
+_not fully achieved_
+* Did not practice opening files in stack trace of errors
+
+### Wednesday
+
+#### Daily goals
+
+1. Better understand rspec structure, syntax options, and methods
+2. Meet with Rupert and fix the problems we had on challenge 16 of pairing challenge (Boris Bikes)
+3. Better understand good practice of SRP on unit tests if that's a thing
+4. Have another good pairing session, with good feedback. Particularly get better at research during pairing
+
+
+#### Day plan
+
+* Watch RSpec tutorial
+* Meet with Rupert and fix Challenge 16 of Boris Bikes
+* Progress pairing challenge with new partner
+* PDD workshop
+
+#### Reflection at the end of the day
+
+
 
 
 
