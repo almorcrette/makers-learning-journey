@@ -55,7 +55,7 @@ By the end of the week all developers can:
 _not fully achieved_
 * Did not practice opening files in stack trace of errors
 
-### Wednesday
+### Thursday
 
 #### Daily goals
 
