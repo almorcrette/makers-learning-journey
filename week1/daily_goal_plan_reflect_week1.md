@@ -46,7 +46,7 @@ By the end of the week all developers can:
 
 #### Reflection at the end of the day
 
-*Achieved*
+*achieved*
 * Successfully established a first iteration to the learning cycle. Evidence by this makers-learning-journey repo and the weekly and daily routines and documentation
 * Finished setting up my Mac and getting used to it. Evidenced by completing a pairing session (4 hours) with the new IDE and receiving 5*s on productivity from my pairing partner
 * Practiced markdown formatting. Evidenced by the markdown files in makers-learning-journey
@@ -74,8 +74,46 @@ _not fully achieved_
 
 #### Reflection at the end of the day
 
+*Achieved*
+* Fixed problems with Rupert in relation to reading instance variables via the attr_reader
+* Great pairing with Mon
+
+_not achieved fully_
+* Still don't think I'm leveraging RSpec much at all
+* Looks like nestling test is useful, but haven't looked into it.
+
+### Friday
+
+#### Daily goals
+
+1. Confirming can *apply* my debugging knowledge and skills in new situations
+2. *Apply* TDD including RSpec on something other than the pair challenge
+2. Bring up to date my learning journey diary
 
 
+#### Day plan
 
+* Complete [intermediate debugging approaches practical] (https://github.com/makersacademy/skills-workshops/blob/main/practicals/debugging/debugging_approaches.md)
+* Watch intro to TDD on roman numerals video
+* Complete / try [TDD on Birthday tracker - intermediate resource RSpec practical] (https://github.com/makersacademy/birthdays)
+* Maintain me learning journey diary
 
+#### Reflection at the end of the day
+
+*Achieved*
+* Can apply debugging knowledge and skills in new situations. Evidence, completed debugging approraches practice
+* Brought learning journey diary uptodate
+
+_not achieved fully_
+* Only just started Birthday tracker practical
+
+Other reflections:
+* Still need to test out diving into a stack trace
+
+### Reflection on weekly goal
+
+* Test-drive a simple program using objects and methods: Boris Bikes almost complete, and Birthday Planner started. Plus weekend challenge
+* Pair using the driver-navigator style: Great feedback from pairs. Useful feedback to make sure I refactor
+* Follow an effective debugging process: Demonstrated good debugging practice with Mon and completed intermediate debugging practical
+* Describe some basic OO principles like encapsulation, SRP: Can describe this, and have also seen where I might not have applied it in the reporting broken bike in Thursday's approach to docking.
 
