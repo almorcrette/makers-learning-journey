@@ -35,7 +35,9 @@ By the end of the week all developers can:
 <dt>Practice markdown formatting</dt>
 </dl>
 
-#### Day plan
+### Wednesday
+
+#### Daily goals
 
 * [Tracking learning] (https://github.com/makersacademy/course/blob/main/goals/self_directed_learning/resources/tracking_your_learning.md)
 * [Prepare to code setup] (http://www.preparetocode.io/)
@@ -112,8 +114,8 @@ Other reflections:
 
 ### Reflection on weekly goal
 
-* Test-drive a simple program using objects and methods: Boris Bikes almost complete, and Birthday Planner started. Plus weekend challenge
+* Test-drived a simple program using objects and methods: Boris Bikes almost complete, and Birthday Planner started. Plus weekend challenge
 * Pair using the driver-navigator style: Great feedback from pairs. Useful feedback to make sure I refactor
-* Follow an effective debugging process: Demonstrated good debugging practice with Mon and completed intermediate debugging practical
+* Followed an effective debugging process: Demonstrated good debugging practice with Mon and completed intermediate debugging practical
 * Describe some basic OO principles like encapsulation, SRP: Can describe this, and have also seen where I might not have applied it in the reporting broken bike in Thursday's approach to docking.
 
