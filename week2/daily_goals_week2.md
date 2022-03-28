@@ -14,6 +14,13 @@ Start attending [process workshops](https://github.com/makersacademy/skills-work
 
 Watch a [short video](https://www.youtube.com/watch?v=TqKG8j_tgbM) explaining what Reviews are and how to use this valuable resource - and then consider booking one!
 
+### Personal goals of the week
+
+By the end of the weekend challenge:
+* Analyze and begin to evaluate spec code good practices, evidenced via
+* Apply classes isolation in unit tests using mocking, evidenced via
+* Consistently apply OO principles of SRP and encapsulation, evidenced via
+
 ### Monday
 
 #### Daily goals
