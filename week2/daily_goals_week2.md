@@ -18,8 +18,8 @@ Watch a [short video](https://www.youtube.com/watch?v=TqKG8j_tgbM) explaining wh
 
 By the end of the weekend challenge:
 * Analyze and begin to evaluate spec code good practices, evidenced via
-* Apply classes isolation in unit tests using mocking, evidenced via
-* Consistently apply OO principles of SRP and encapsulation, evidenced via
+* Apply classes isolation in unit tests using mocking, evidenced by having fully isolated classes in the tests for the Airport weekend challenge,
+* Consistently apply OO principles of SRP and encapsulation, evidenced by having applied those principles on the Airport weekend challenge,
 
 ### Monday
 
@@ -27,7 +27,7 @@ By the end of the weekend challenge:
 
 1. Understand ideas and concepts of code review and apply to review another person's code
 2. Improve my understanding and application of class isolation in unit testing
-3. Work out when the process workshops are so thst I can join them in future
+3. Work out when the process workshops are so that I can join them in future
 
 ### Plan for the day
 
@@ -39,6 +39,21 @@ By the end of the weekend challenge:
 
 #### Reflection at the end of the day
 
+**achieved**
+* Understand ideas and concepts of code review, have read and applied the Airport Challenge rubric and have reviewed another person's code and given feedback. Also reviewed my own
+* Isolated class tests on Airport weekend challenge, confirming my understanding of class isolation in unit testing
+
+*not achieved fully*
+* Did not have time to read all review matieral, or read up about the process workshops
+
 #### Daily goals
+1. Turn up and be present through today, it's a tough day.
+2. Improve understanding of spec code good practice by 
+3. Apply SRP
+
+#### Plan for the day
+* Apply Airport code review rubric good practice to tests in Airport challenge
+* Apply SRP on Airport code
+* Complete Birthday list practical
 
 #### Reflection at the end of the day
