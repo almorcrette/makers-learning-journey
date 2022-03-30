@@ -40,15 +40,15 @@ By the end of the weekend challenge:
 #### Reflection at the end of the day
 
 **achieved**
-* Understand ideas and concepts of code review, have read and applied the Airport Challenge rubric and have reviewed another person's code and given feedback. Also reviewed my own
+* Understand ideas and concepts of code review, have read and applied the Airport Challenge rubric and have reviewed another person's code and given feedback. Also reviewed my own. *Wednesday morning update* watched code review talk 
 * Isolated class tests on Airport weekend challenge, confirming my understanding of class isolation in unit testing
+* *Wednesday morning update* Learned about developer process workshop and planned to attend my first one in week 3
 
-*not achieved fully*
-* Did not have time to read all review matieral, or read up about the process workshops
+### Tuesday
 
 #### Daily goals
 1. Turn up and be present through today, it's a tough day.
-2. Improve understanding of spec code good practice by 
+2. Improve understanding of spec code good practice 
 3. Apply SRP
 
 #### Plan for the day
@@ -57,3 +57,31 @@ By the end of the weekend challenge:
 * Complete Birthday list practical
 
 #### Reflection at the end of the day
+
+**achieved**
+* Proud of myself of sticking through the day. Had a good domain modelling workshop and an excellent pairing session. Also got through all that adulting and didn't lose my mind not being able to go run or walk dogs. Sent out invitations to mum's rememberance event.
+* Made progress on Airport refactoring, particularly, completed class isolation on tests
+
+### Wednesday
+
+#### Daily goals
+
+1. Improve understanding of spec code good practice, particularly isolation, mocking, behavioural tests
+2. Deepen object oriented development conceptualisation
+
+#### Plan for the day
+* Finish applying Airport code review rubric good practice to tests in Airport challenge, applying SRP on Airport code
+* Complete Birthday list practical
+* OO practicals on [encapsulation and cohesion](https://github.com/makersacademy/skills-workshops/blob/main/practicals/object_oriented_design/encapsulation.md), (dependency injection)[https://github.com/makersacademy/skills-workshops/blob/main/practicals/object_oriented_design/dependency_injection.md]
+* OO workshops on [concretes and abstracts](https://github.com/makersacademy/skills-workshops/tree/main/object_oriented_programming/oop_3) and [delegate, delegate, delegate](https://github.com/makersacademy/skills-workshops/tree/main/object_oriented_programming/oop_3)
+
+#### Reflection at the end of the day
+
+### Thursday
+
+#### Daily goals
+
+1. Feature test
+
+#### Plan for the day
+* [Video on testing and mocks by Sandi Metz](https://www.youtube.com/watch?v=URSWYvyc42M)
