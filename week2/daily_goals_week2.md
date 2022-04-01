@@ -77,11 +77,62 @@ By the end of the weekend challenge:
 
 #### Reflection at the end of the day
 
+**achieved**
+* Completed concretes and abstracts started looking at delegate, delegate delegate and spotted that dependency injection is a prerequisite. Feel that I'm gaining a better understanding of OOD
+
+*not fully achieved*
+* Didn't have time for a lot of what I said I'd do...
+
 ### Thursday
 
 #### Daily goals
 
-1. Feature test
+1. Review feature testing examples to be able to apply it in future
+2. Continue deepending understanding on OOD
 
 #### Plan for the day
+* (Dependency injection)[https://github.com/makersacademy/skills-workshops/blob/main/practicals/object_oriented_design/dependency_injection.md]
 * [Video on testing and mocks by Sandi Metz](https://www.youtube.com/watch?v=URSWYvyc42M)
+
+#### Reflection at the end of the day
+
+**achieved**
+* Complete the bulk of dependency injection and was the only one in the cohort who knew the answer in the workshop about it
+
+*not fully achieved*
+* Didn't look at feature testing
+* Didn't watch the video on testing and mocks
+
+### Friday
+
+#### Daily goals
+
+1. Continue deepending understanding on OOD
+
+#### Plan for the day
+
+* Work through the final questions / queries on dependency injection and look at encapsulation and concretes
+* Complete pairing challenge (Oystercard)
+
+#### Reflection at the end of the day
+
+**achieved**
+* Bottomed out dependency injection
+
+*not fully achieved*
+* Really struggled to make sense of the principles on cohesion in [encapsulation and cohesion](https://github.com/makersacademy/skills-workshops/blob/main/practicals/object_oriented_design/encapsulation.md)
+* Got quite bogged down on Oystercard challenge and didn't have a good pairing session
+
+### Reflection on weekly goal
+
+To review... on Sunday...
+* Use all of week 1's skills (don't underestimate the importance of this)
+* Break one class into two classes that work together, while maintaining test coverage
+* Unit test classes in isolation using mocking
+* Explain some basic OO principles and tie them to high level concerns (e.g. ease of change)
+* Review another person's code and give them meaningful feedback
+
+By the end of the weekend challenge:
+* Analyze and begin to evaluate spec code good practices, evidenced via
+* Apply classes isolation in unit tests using mocking, evidenced by having fully isolated classes in the tests for the Airport weekend challenge,
+* Consistently apply OO principles of SRP and encapsulation, evidenced by having applied those principles on the Airport weekend challenge,
