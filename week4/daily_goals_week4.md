@@ -49,11 +49,22 @@ Not worked on Monday due to mum's funeral.
 
 #### Reflection at the end of the day
 
+*Achieved*
+* Productive afternoon on challenge, catching up from Monday, reaching chapter 11.
+* Readf A Shellfish Start Guide to Databases
+
+*Not achieved*
+* Not quite as far as planned in goal on afternoon challenge.
+
 ### Wednesday
 
 #### Daily goals
 
+* Better understand how to implement REST
+
 ### Plan for the day
+
+* Explore REST resources, including [REST pill](https://github.com/makersacademy/course/blob/main/pills/rest.md), [REST big idea](https://github.com/sjmog/rest/blob/master/docs/README.md), and potentially [REST skills workshop](https://github.com/sjmog/rest)
 
 #### Reflection at the end of the day
 
