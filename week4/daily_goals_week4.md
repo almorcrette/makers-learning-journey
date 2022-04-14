@@ -68,11 +68,22 @@ Not worked on Monday due to mum's funeral.
 
 #### Reflection at the end of the day
 
+*Achieved*
+* I can remember / recall facts and basic concepts about REST having read through the material, and I understand some of the ideas and concepts because I managed to complete the REST game. However still have a way to go to be able to properly apply or analyse it.
+* Additionally I got on top of [database relationships understanding contents of this pill about this](https://github.com/makersacademy/course/blob/main/pills/db_relationships.md)
+
 ### Thursday
 
 #### Daily goals
 
+* Be able to apply wrapping DB data around objects
+* Be familiar with key SQL queries 
+
 ### Plan for the day
+
+* [SQL Zoo](https://sqlzoo.net/wiki/SQL_Tutorial)
+* Something on wrapping DB data around objects
+
 
 #### Reflection at the end of the day
 
