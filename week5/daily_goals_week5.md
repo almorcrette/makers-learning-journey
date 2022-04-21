@@ -21,7 +21,8 @@ By the end of the week all developers can build tested, easy-to-change software 
 
 ### Personal goals of the week
 
-* 
+* Learn how to apply an out-of-the-box ORM, e.g. ActiveRecord, and use it if relevant to the weekend challenge
+* Learn about effective agile engineering team working
 
 ### Monday
 
@@ -31,33 +32,34 @@ Bank holiday Monday. Worked on previous week's weekend challenge.
 
 #### Daily goals
 
-* 
+
 
 ### Plan for the day
 
-* 
+
+
 #### Reflection at the end of the day
 
-*Achieved*
-* 
-
-*Not achieved*
-* 
 
 ### Wednesday
 
 #### Daily goals
 
-* 
+* Successfully set up ActiveRecord on a Sinatra web app project
+* Learn how to use ActiveRecord
 
 ### Plan for the day
 
-* 
+* Run through [ActiveRecord tutorial](https://pfoplabs.daraghbyrne.me/7-databases/)
 
 #### Reflection at the end of the day
 
 *Achieved*
-* 
+* Successfully set up ActiveRecord on a Sinatra web app project
+
+*Not achieved*
+* Still working through how to use ActiveRecord
+
 
 ### Thursday
 
