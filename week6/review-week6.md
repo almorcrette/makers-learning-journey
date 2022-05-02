@@ -18,8 +18,27 @@
 
 * I can explain how asynchronous programming in JS works. Drawing on [this explanation](https://www.youtube.com/watch?v=8aGhZQkoFbQ):
 ```
-JS is single-threaded which means it can only do one thing at a time. To avoid scripts that take a longer(er) time to complete (such as ones that fetch data from web APIs) from blocking the call stack, they are moved onto a task queue for callback later by the event loop. The callback code is then executed once the call stack is clear. This allows concurrency, because lengthy scripts do not 'hog' the call stack, as they are in the task queue instead. This means that the call stack is available for other quick processes, such as browser refresh.
+JS is single-threaded which means it can only process one block of code at a time.
+
+In single threaded synchronous programming languages, a script is executed one line at a time in the order they come in a script: each line is read and pushed onto the call stack, and is executed in order, popping out of the stack once they are executed. A later block in the script will be executed after an earlier one.
+
+In JS, to avoid some blocks of code that take a longer(er) time to complete (such as ones that fetch data from web APIs) from blocking the call stack, once they are reached on the call stack, they are moved off the call stack and onto a task queue for callback later by the event loop. Once a process executed by the block is complete, the event loop will push the callback block back onto the call stack for execution, once the call stack is clear.
+
+This allows concurrency, because lengthy blocks of code do not 'hog' the call stack, as they are taken off the call stack and put into the task queue while the length process is executed. While that happens the call stack can continue executing other code (which comes later in the script).
+
+This means that the call stack is available for other quick processes, such as browser refresh. A consequence of this is that blocks of code higher up the script may finish executing after blocks of code later in the script. It also means that all callbacks will be executed after the end of blocks of code without a callback.JS is single-threaded which means it can only process one block of code at a time.
+
+In single threaded synchronous programming languages, a script is executed one line at a time in the order they come in a script: each line is read and pushed onto the call stack, and is executed in order, popping out of the stack once they are executed. A later block in the script will be executed after an earlier one.
+
+In JS, to avoid some blocks of code that take a longer(er) time to complete (such as ones that fetch data from web APIs) from blocking the call stack, once they are reached on the call stack, they are moved off the call stack and onto a task queue for callback later by the event loop. Once a process executed by the block is complete, the event loop will push the callback block back onto the call stack for execution, once the call stack is clear.
+
+This allows concurrency, because lengthy blocks of code do not 'hog' the call stack, as they are taken off the call stack and put into the task queue while the length process is executed. While that happens the call stack can continue executing other code (which comes later in the script).
+
+This means that the call stack is available for other quick processes, such as browser refresh. A consequence of this is that blocks of code higher up the script may finish executing after blocks of code later in the script. It also means that all callbacks will be executed after the end of blocks of code without a callback.
 ```
+
+__have sought feedback from Leo on this explanation__
+
 * I [test drived the thermostat program and built it as a (very) simple webapp](https://github.com/almorcrette/js-practice)
 * I did decide to fly solo this week to conserve my social / emotional batteries while my wife was very sick and in hospital.
 * __However__ I got __quite stuck__ during the reprogramming of the Bowling Challenge trying to get user input with `readline` to work, getting stuck with asynchronous aspects of the code.
@@ -29,5 +48,13 @@ JS is single-threaded which means it can only do one thing at a time. To avoid s
 ### Next steps
 
 * Get feedback on my description of asynchronous programming
+
+__have sought feedback from Leo on this explanation__
+
 * Deepen my understanding of asynchronicity and callback functions, [watching this](https://www.youtube.com/watch?v=xHneyv38Jro), and considering [this practical](https://github.com/makersacademy/javascript-fundamentals/tree/main/practicals/callbacks)
+
+__complete__
+
 * Read about [learning a new language by translation](https://hackmd.io/kMNgXiPHQf2Q_P9A-tnS9A) to help me gain more confident in applying a coherent process to learning a new language, and learning using online materials
+
+__complete__
