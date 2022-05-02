@@ -30,6 +30,4 @@ JS is single-threaded which means it can only do one thing at a time. To avoid s
 
 * Get feedback on my description of asynchronous programming
 * Deepen my understanding of asynchronicity and callback functions, [watching this](https://www.youtube.com/watch?v=xHneyv38Jro), and considering [this practical](https://github.com/makersacademy/javascript-fundamentals/tree/main/practicals/callbacks)
-* Read about [learning a new language by translation](https://hackmd.io/kMNgXiPHQf2Q_P9A-tnS9A) to help me gain more confident in applying a coherent process to learning a new language
-
-
+* Read about [learning a new language by translation](https://hackmd.io/kMNgXiPHQf2Q_P9A-tnS9A) to help me gain more confident in applying a coherent process to learning a new language, and learning using online materials

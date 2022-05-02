@@ -7,9 +7,14 @@
 * I have test-drive a simple Javascript program running in a web browser, using modern JS build tools.
 * I have used the DOM API to build a web user interface for this program.
 * I have built a single-page web application fetching and updating remote data using JS.
+* I am better at time management: timeboxing, taking breaks, stop working and winding down etc.
+
+Potential additional goal:
+* Go through an external code review
 
 ### Plan for the week
 
+* Resume exercising everyday, use pomodoro technique to manage breaks and escalation approach to problems I'm stuck on
 * Complete the [JS web frontend applications syllabus](https://github.com/makersacademy/javascript-web-applications#sequence)
 * Weekend challenge - TBC
 * Read the [Calling APIs in Javascript](https://github.com/makersacademy/course/blob/main/pills/calling_apis_in_javascript.md) explainer about async JS
